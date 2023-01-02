@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikelemus27
 - 👀 I’m interested in programming languages,best practices, software architectures and sofware systemes develop in general
-- 🌱 I’m currently learning clojure, python and docker
+- 🌱 I’m currently learning clojure, python,docker, opengl and canvas
 - 💞️ I’m looking to collaborate on  clojures software
 - 📫 How to reach me 
  https://www.linkedin.com/in/miguel-angel-gallardo-lemus-a9576420/
